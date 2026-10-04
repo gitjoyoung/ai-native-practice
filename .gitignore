@@ -1,0 +1,9 @@
+# [이 파일은 어떻게 쓰이나요?]
+# git에 "이 파일들은 올리지 마"라고 알려 주는 목록이에요.
+# 아래 두 파일은 나만 쓰는 개인 설정이라 팀과 나누지 않아요.
+
+# 내 PC에만 적용되는 Claude 설정 (권한 허용 기록 등)
+.claude/settings.local.json
+
+# 나만 보는 Claude 메모
+CLAUDE.local.md
